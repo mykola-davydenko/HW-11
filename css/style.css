@@ -1,0 +1,9 @@
+p{
+   width: 350px; 
+   height: 220px;
+   outline: 2px red;
+   padding: 15 10 20 10;
+   border: dashed red 2px;
+   background-color: green;
+   margin-bottom: 30px;
+}
